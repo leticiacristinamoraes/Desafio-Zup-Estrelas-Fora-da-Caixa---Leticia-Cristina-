@@ -1,0 +1,90 @@
+body {
+    background-attachment: fixed;
+    background-image: url("https://i.pinimg.com/originals/1a/a1/01/1aa1019805e29096842028bc0714ff6e.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    margin: 0;
+    min-height: 100vh;
+    width: 100%;
+}
+
+header {
+    align-items: center;
+    justify-content: center;
+    margin: 30px;
+}
+
+p {
+    color: rgb(32, 170, 170);
+    font-family: fantasy;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#cabecalho {
+    color: rgb(0, 0, 0);
+    font-family: fantasy;
+    left: 0;
+    letter-spacing: -0.20px;
+    line-height: 20px;
+    top: 0;
+}
+
+#personagem1 {
+    background-color: rgb(6, 65, 65);
+    border: 2px;
+    border-radius: 10px;
+    height: 400px;
+    left: 130px;
+    margin: 15px;
+    padding: 25px 0;
+    position: relative;
+    text-align: center;
+    top: 0;
+    width: 400px;
+}
+
+#personagem2 {
+    background-color: rgb(6, 65, 65);
+    border: 2px;
+    border-radius: 10px;
+    height: 400px;
+    left: 800px;
+    margin: 15px;
+    padding: 25px 0;
+    position: relative;
+    text-align: center;
+    top: 0px;
+    width: 400px;
+}
+
+#personagem3 {
+    background-color: rgb(6, 65, 65);
+    border: 2px;
+    border-radius: 10px;
+    height: 400px;
+    left: 130px;
+    margin: 15px;
+    padding: 25px 0;
+    position: relative;
+    text-align: center;
+    top: 50px;
+    width: 400px;
+}
+
+#personagem4 {
+    background-color: rgb(6, 65, 65);
+    border: 2px;
+    border-radius: 10px;
+    height: 400px;
+    left: 800px;
+    margin: 15px;
+    padding: 25px 0;
+    position: relative;
+    text-align: center;
+    top: 100px;
+    width: 400px;
+}
